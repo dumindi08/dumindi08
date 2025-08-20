@@ -9,10 +9,10 @@
 ---
 
 ### 🛠 Tech Stack
-- Languages: C | Python | Java | [Add yours]
-- Frameworks: React | Node.js | [Add yours]
-- Tools: Git | GitHub | VS Code | [Add yours]
-- Databases: MySQL | MongoDB | [Add yours]
+- Languages: C | Python | Java | 
+- Frameworks: React | Node.js | 
+- Tools: Git | GitHub | VS Code | 
+- Databases: MySQL | MongoDB | 
 
 ---
 
