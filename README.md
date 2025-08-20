@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm [Dumindi Nirasha]
 
-<!--
-**dumindi08/dumindi08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 About Me
+- 🌱 I’m currently following [Software Engineering Degree ]
+- 👨‍💻 I’m working on [Code,Web Developmentl]
+- 🔭 I’m interested in [AI,Machine learning]
+- 🎯 My goal is to become a [IT expert]
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- Languages: C | Python | Java | [Add yours]
+- Frameworks: React | Node.js | [Add yours]
+- Tools: Git | GitHub | VS Code | [Add yours]
+- Databases: MySQL | MongoDB | [Add yours]
+
+---
+
+### 📊 GitHub Stats
+![dumindi08's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+
+---
+
+### 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dumindi-hewagunasekara-97b6a337b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BcqsstCo2QuGweiAqLg21%2Fw%3D%3D)    
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dumindi21@gmail.com)l
+
+---
+✨ _“Code. Learn. Build. Repeat.”_ ✨
